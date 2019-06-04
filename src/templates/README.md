@@ -6,3 +6,4 @@ Learn more: https://gridsome.org/docs/templates
 
 You can delete this file.
 Ok? Ok!
+Ahaha!!!
